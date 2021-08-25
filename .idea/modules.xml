@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/reflectly_color_selection_ui_designing.iml" filepath="$PROJECT_DIR$/reflectly_color_selection_ui_designing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/reflectly_color_selection_ui_designing_android.iml" filepath="$PROJECT_DIR$/android/reflectly_color_selection_ui_designing_android.iml" />
+    </modules>
+  </component>
+</project>
